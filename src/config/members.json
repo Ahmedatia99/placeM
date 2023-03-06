@@ -1,0 +1,65 @@
+[
+    {
+      
+        "num":1,
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "Mr Fox"
+
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "Keepitreal",
+        "num":2
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "DigiLab",
+        "num":3
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "GravityOne",
+        "num":4
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "Juanie",
+        "num":5
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name":"BlueWhale",
+        "num":6
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name":"Shroomie",
+        "num":7
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "robotica",
+        "num":8
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "RustyRobot",
+        "num":9
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "animaknum",
+        "num":10
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "Dotgu",
+        "num":11
+      },
+      {
+        "imageUrl": "@/../public/images/icons/Fox Placeholder.svg",
+        "name": "Ghiblier",
+        "num":12
+      }
+
+]
